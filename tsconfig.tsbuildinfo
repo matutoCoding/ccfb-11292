@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/store.tsx","./src/types.ts","./src/components/viewport.tsx","./src/gl/geometry.ts","./src/gl/mat.ts","./src/gl/renderer.ts","./src/gl/shaders.ts","./src/pages/burnpage.tsx","./src/pages/materialpage.tsx","./src/pages/productspage.tsx","./src/pages/settingspage.tsx","./src/pages/shapepage.tsx"],"version":"5.9.3"}
